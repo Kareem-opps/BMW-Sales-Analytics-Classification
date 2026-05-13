@@ -24,14 +24,17 @@ The solution includes:
 
 # 🛠️ Technologies Used
 
-- Excel
+- Microsoft Excel
 - Power Query
 - Power Pivot
+- Pivot Tables
+- Data Visualization
+- KPI Analysis
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
+- KNN Classification
 - Joblib
 
 ---
@@ -45,6 +48,29 @@ The solution includes:
 - Sales Volume by Model
 - Interactive Filters & Slicers
 - KPI Monitoring
+
+---
+
+# 📊 Data Analysis Process
+
+## Data Cleaning
+- Removed inconsistencies
+- Validated missing values
+- Standardized categories
+- Created calculated columns
+
+## Feature Engineering
+- Revenue calculations
+- Sales classification
+- KPI extraction
+- Regional aggregations
+
+## Classification Logic
+Sales were classified into:
+- High Sales
+- Low Sales
+
+using threshold-based classification and analytical calculations.
 
 ---
 
