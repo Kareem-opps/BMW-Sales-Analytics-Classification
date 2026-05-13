@@ -15,7 +15,7 @@ The project combines:
 This project analyzes BMW global sales data from 2010 to 2024 and predicts whether sales are classified as High Sales or Low Sales using KNN Classification.
 
 The solution includes:
-- Interactive Excel Dashboard
+- Interactive Excel Business Intelligence Dashboard
 - Data Cleaning & Transformation
 - Machine Learning Pipeline
 - Business KPI Analysis
